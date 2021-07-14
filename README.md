@@ -8,6 +8,10 @@ As a data analyst we have to find the insight through the data, so I take sample
 
 ## ABOUT THE COMPANY
 
+
+![people-riding-bicycle-cartoon-active-characters-city-park-bike-healthy-lifestyle-concept-vector-banner-resting-fresh-air-166725012](https://user-images.githubusercontent.com/86598565/125612522-b7d8a639-b8b7-4d9f-bd65-458bbb7afe13.jpg)
+
+
 IN 2016, Cyclistics launch a successful bike-share offereing. Since then, the program as grown toa fleet of 5,824 bicycles that are geo tracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked form one station and returned to anyother station in the system anytime. Until now, their marketing strategy relied on building general awareness and appealing to board consumer segments. 
 
 One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes and annual memberships.customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual membership are Cyclistics members.
