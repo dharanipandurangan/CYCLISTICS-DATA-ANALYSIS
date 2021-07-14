@@ -3,7 +3,7 @@
 
 
 
-#### Guiding questions
+#### Guiding Questions
 
     - What is the problem you are trying to solve?
         * If there are any factors that could influence casual riders to become members. 
@@ -12,7 +12,7 @@
     - How can your insights drive business decisions?
         * The insights from this case study will help the Design marketing team on creating strategies aimed at converting casual riders into annual members.
 
-#### Key tasks
+#### Key Tasks
 
     1. Identify the business task - Completed
     2. Consider key stakeholders - Completed
