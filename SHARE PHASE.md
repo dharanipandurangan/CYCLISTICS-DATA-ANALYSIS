@@ -20,6 +20,10 @@
 
     - Supporting visualizations and key findings.
     
+   
+![AVERAGE DURATION](https://user-images.githubusercontent.com/86598565/125610407-032c8e61-1a09-4a3e-b360-cc50ba4aec17.jpeg)
+![NO OF RIDES](https://user-images.githubusercontent.com/86598565/125610514-864c041f-2e46-4aba-a1c1-14974478d02a.jpeg)
+
 ##### CONCLUSION
 
     - The casual riders spend more ride time/duration than membership riders.
