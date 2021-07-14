@@ -20,9 +20,9 @@ In order to answer the key business questions, we will follow the steps of data 
 
 | DATA ANALYSIS PROCESSING STEPS  | 
 | ------------- | 
-| [Ask](https://github.com/flegaspi700/GDA_Case_Study/blob/main/Bike%20Share/Case%20Study%20Roadmap%20-%20Ask.md)  | 
-| [Prepare](https://github.com/flegaspi700/GDA_Case_Study/blob/main/Bike%20Share/Case%20Study%20Roadmap%20-%20Prepare.md) |
-| [Process](https://github.com/flegaspi700/GDA_Case_Study/blob/main/Bike%20Share/Case%20Study%20Roadmap%20-%20Process.md) |
-| [Analyze](https://github.com/flegaspi700/GDA_Case_Study/blob/main/Bike%20Share/Case%20Study%20Roadmap%20-%20Analyze.Rmd) |
-| [Share](https://github.com/flegaspi700/GDA_Case_Study/blob/main/Bike%20Share/Case%20Study%20Roadmap%20-%20Share.md) |
-| [Act](https://github.com/flegaspi700/GDA_Case_Study/blob/main/Bike%20Share/Case%20Study%20Roadmap%20-%20Act.md) |
+| [Ask](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/ASK%20PHASE.md)  | 
+| [Prepare](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/PREPARE%20PHASE.md) |
+| [Process](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/PROCESS%20PHASE.md) |
+| [Analyze]() |
+| [Share](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/SHARE%20PHASE.md) |
+| [Act](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/ACT%20PHASE.md) |
