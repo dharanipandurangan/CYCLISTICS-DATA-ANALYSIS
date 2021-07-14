@@ -12,3 +12,17 @@ One approach that helped make these things possible was the flexibility of its p
 
 ## NEED FOR ANALYSIS
 The finance analysts have conducted that annual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic  attract more customers, Moreno-Director of marketing and our manager in this scenario believes that maximizing the number of annyal member will be key to future growth.
+
+## PROBLEM STATEMENT
+The key task assigned for us as a Junior Data Analyst is to find, how the annual members and casual rides use the cyclistic differntly .
+
+In order to answer the key business questions, we will follow the steps of data analysis process: ASK, PREPARE, PROCESS, ANALYZE, SHARE AND ACT.
+
+| DATA ANALYSIS PROCESSING STEPS  | 
+| ------------- | 
+| [Ask](https://github.com/flegaspi700/GDA_Case_Study/blob/main/Bike%20Share/Case%20Study%20Roadmap%20-%20Ask.md)  | 
+| [Prepare](https://github.com/flegaspi700/GDA_Case_Study/blob/main/Bike%20Share/Case%20Study%20Roadmap%20-%20Prepare.md) |
+| [Process](https://github.com/flegaspi700/GDA_Case_Study/blob/main/Bike%20Share/Case%20Study%20Roadmap%20-%20Process.md) |
+| [Analyze](https://github.com/flegaspi700/GDA_Case_Study/blob/main/Bike%20Share/Case%20Study%20Roadmap%20-%20Analyze.Rmd) |
+| [Share](https://github.com/flegaspi700/GDA_Case_Study/blob/main/Bike%20Share/Case%20Study%20Roadmap%20-%20Share.md) |
+| [Act](https://github.com/flegaspi700/GDA_Case_Study/blob/main/Bike%20Share/Case%20Study%20Roadmap%20-%20Act.md) |
