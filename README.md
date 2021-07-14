@@ -20,9 +20,9 @@ In order to answer the key business questions, we will follow the steps of data 
 
 | DATA ANALYSIS PROCESSING STEPS  | 
 | ------------- | 
-| [Ask](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/ASK%20PHASE.md)  | 
-| [Prepare](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/PREPARE%20PHASE.md) |
-| [Process](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/PROCESS%20PHASE.md) |
-| [Analyze]() |
-| [Share](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/SHARE%20PHASE.md) |
-| [Act](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/ACT%20PHASE.md) |
+| [ASK](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/ASK%20PHASE.md)  | 
+| [PREPARE](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/PREPARE%20PHASE.md) |
+| [PROCESS](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/PROCESS%20PHASE.md) |
+| [ANALYZE](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/ANALYZE%20PHASE.Rmd) |
+| [SHARE](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/SHARE%20PHASE.md) |
+| [ACT](https://github.com/dharanipandurangan/CYCLISTICS-DATA-ANALYSIS/blob/main/ACT%20PHASE.md) |
